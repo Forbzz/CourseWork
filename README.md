@@ -1,13 +1,13 @@
 # CouseWork
-Список статей
+<h2>Список статей</h2>
 
-https://www.imaging.utk.edu/research/sclukey/cvl/references/chisel-dac2012.pdf#page=1&zoom=auto,-274,669 -- CHISEL
+1. https://www.imaging.utk.edu/research/sclukey/cvl/references/chisel-dac2012.pdf#page=1&zoom=auto,-274,669 -- CHISEL
 
-https://picture.iczhiku.com/resource/eetop/WHKHqHAIuHOiybBX.pdf -- Verilog
+2. https://picture.iczhiku.com/resource/eetop/WHKHqHAIuHOiybBX.pdf -- Verilog
 
-https://apps.dtic.mil/sti/pdfs/ADA450477.pdf - JHDL
+3. https://apps.dtic.mil/sti/pdfs/ADA450477.pdf - JHDL
 
-https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf SystemVerilog
+4. https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf SystemVerilog
 
-https://dl.acm.org/doi/pdf/10.1145/2001269.2001284 Bluespec SystemVerilog
+5. https://dl.acm.org/doi/pdf/10.1145/2001269.2001284 Bluespec SystemVerilog
 
