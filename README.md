@@ -11,3 +11,4 @@
 
 5. https://dl.acm.org/doi/pdf/10.1145/2001269.2001284 Bluespec SystemVerilog
 
+Ссылка на гуглдок: https://docs.google.com/document/d/1FuoXqhi9zsbJolebkBPyChVMcZ0c997kzsaTeTuzFrQ/edit?usp=sharing
