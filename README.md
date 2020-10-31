@@ -1,4 +1,4 @@
-# CouseWork
+# CourseWork
 <h2>Список статей</h2>(пока не окончательный)
 
 1. https://www.imaging.utk.edu/research/sclukey/cvl/references/chisel-dac2012.pdf#page=1&zoom=auto,-274,669 -- CHISEL
