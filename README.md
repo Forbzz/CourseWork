@@ -9,6 +9,6 @@
 
 4. https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf SystemVerilog
 
-5. https://dl.acm.org/doi/pdf/10.1145/2016036.2020861 Bluespec SystemVerilog(заменить)
+5. https://www.researchgate.net/profile/Jan_Kuper/publication/220880218_CaSH_Structural_Descriptions_of_Synchronous_Hardware_Using_Haskell/links/02e7e520c063805ee1000000.pdf CλaSH
 
 Ссылка на гуглдок: https://docs.google.com/document/d/1FuoXqhi9zsbJolebkBPyChVMcZ0c997kzsaTeTuzFrQ/edit?usp=sharing
