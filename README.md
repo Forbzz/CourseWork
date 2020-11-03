@@ -7,7 +7,7 @@
 
 3. https://apps.dtic.mil/sti/pdfs/ADA450477.pdf - JHDL
 
-4. https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf SystemVerilog
+4. https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf VHDL
 
 5. https://www.researchgate.net/profile/Jan_Kuper/publication/220880218_CaSH_Structural_Descriptions_of_Synchronous_Hardware_Using_Haskell/links/02e7e520c063805ee1000000.pdf CλaSH
 
