@@ -5,7 +5,7 @@
 
 2. https://picture.iczhiku.com/resource/eetop/WHKHqHAIuHOiybBX.pdf -- Verilog
 
-3.https://past.date-conference.com/proceedings-archive/2004/DATE04/PDFFILES/10F.PDF - SystemVerilog
+3. https://past.date-conference.com/proceedings-archive/2004/DATE04/PDFFILES/10F.PDF - SystemVerilog
 
 4. https://www.naun.org/main/NAUN/circuitssystemssignal/20-822.pdf VHDL
 
